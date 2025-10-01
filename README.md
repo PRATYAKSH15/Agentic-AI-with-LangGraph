@@ -13,6 +13,6 @@ It contains practical examples and projects for creating:
 ## 🚀 Getting Started
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/your-username/Agentic-AI-with-LangGraph.git
+git clone https://github.com/PRATYAKSH15/Agentic-AI-with-LangGraph.git
 cd Agentic-AI-with-LangGraph
 pip install -r requirements.txt
